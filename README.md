@@ -7,16 +7,12 @@ The main purpose of this project is to analyze bank marketing data using Excel a
 
 This dataset is highly relevant as it contains bank marketing campaign data along with customer demographics and economic indicators. It helps analyze customer behavior and identify factors influencing subscription decisions.
 
----
-
 ## Key Metrics
 
 * Total Customers
 * Subscription Count
 * Average Call Duration
 * Euribor Rate Trend Analysis
-
----
 
 ## Features
 
@@ -28,16 +24,12 @@ This dataset is highly relevant as it contains bank marketing campaign data alon
 * Economic trend analysis using Euribor rate
 * Interactive slicers and drill-down features
 
----
-
 ## 🛠️ Tools Used
 
 * Microsoft Excel
 * Power BI
 * Pivot Tables
 * Data Visualization
-
----
 
 ## Key Insights
 
@@ -48,13 +40,9 @@ This dataset is highly relevant as it contains bank marketing campaign data alon
 * Longer call duration increases the probability of customer subscription.
 * Economic indicators such as Euribor rate and employment trends influence customer decisions.
 
----
-
 ##  Author
 
 Chithra Madhavan Nair Vijayamma
-
----
 
 ##  Conclusion
 
