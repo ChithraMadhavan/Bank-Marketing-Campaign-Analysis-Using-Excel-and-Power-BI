@@ -32,9 +32,10 @@ Economic indicators such as Euribor rate and employment trends influence custome
 **Author**
 
 Chithra Madhavan Nair Vijayamma
+
 **Conclusion**
 his project demonstrates how Excel and Power BI can be used to clean, analyze, and visualize bank marketing data to generate meaningful business insights, improve campaign strategies, and support data-driven decision-making.
 
-Data Cleaning
+
 Pivot Tables
 Data Visualization
